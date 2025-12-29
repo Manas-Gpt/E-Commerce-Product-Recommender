@@ -122,7 +122,6 @@ Ready to run the project locally? Just follow these steps.
     ```
     Your browser should automatically open to `http://localhost:3000`.
 
-***
 
 ## How Recommendations Work 
 
