@@ -146,7 +146,7 @@ This project is easy to customize. Here’s how:
 * **Tweak the Algorithm**: Want to value reviews more than price? Head over to `backend/recommender.py` and adjust the weights in the `_calculate_score` method.
 * **Change the Look**: All styling is handled in the CSS files under `frontend/src/styles/`. Go wild!
 
-***
+
 
 
 ## What's Next?
