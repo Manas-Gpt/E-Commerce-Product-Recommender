@@ -136,7 +136,7 @@ The final score is calculated with this formula:
 ```python
 score = (rating_normalized * 0.5) + (reviews_normalized * 0.3) + (price_normalized * 0.2)
 
-***
+
 ```
 ## Make It Your Own 
 
